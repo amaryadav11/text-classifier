@@ -41,3 +41,5 @@ Python packages used
 6. joblib
 7. matplotlib
 8. re
+
+Dataset used ImDb Movie Reviews Dataset https://www.kaggle.com/mantri7/imdb-movie-reviews-dataset?select=train_data+%281%29.csv
